@@ -49,6 +49,6 @@ const studentList = new StudentList([
 // console.log(studentList.updateCourse("2015-105869", "BSICT"));
 // console.log(studentList.updateCollege("2015-105869", "College of Business"));
 // console.log(studentList.updateAddress("2015-105869", "Mindanao"));
-console.log(studentList.getNumbers());
-console.log(studentList.removeSudent("2015-105868"));
-console.log(studentList.getNumbers());
+// console.log(studentList.getNumbers());
+// console.log(studentList.removeSudent("2015-105868"));
+// console.log(studentList.getNumbers());
