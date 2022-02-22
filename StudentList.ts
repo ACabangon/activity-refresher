@@ -66,6 +66,8 @@ export class StudentList {
 
     }
 
+    //test
+
     // create method and return number of students
     // delete one student and return list of students, use splice method (index, 1)
 }
